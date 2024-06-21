@@ -1,0 +1,250 @@
+Country,Alpha-2,Alpha-3,Official Currency,Currency Alpha-2
+Aruba,AW,ABW,Aruban Florin,AWG
+Afghanistan,AF,AFG,,
+Angola,AO,AGO,,
+Anguilla,AI,AIA,,
+Åland Islands,AX,ALA,,
+Albania,AL,ALB,Lek,ALL
+Andorra,AD,AND,,
+United Arab Emirates,AE,ARE,UAE Dirham,AED
+Argentina,AR,ARG,Argentine Peso,ARS
+Armenia,AM,ARM,Armenian Dram,AMD
+American Samoa,AS,ASM,,
+Antarctica,AQ,ATA,,
+French Southern Territories,TF,ATF,,
+Antigua and Barbuda,AG,ATG,,
+Australia,AU,AUS,Australian Dollar,AUD
+Austria,AT,AUT,,
+Azerbaijan,AZ,AZE,,
+Burundi,BI,BDI,Burundi Franc,BIF
+Belgium,BE,BEL,,
+Benin,BJ,BEN,,
+"Bonaire, Sint Eustatius and Saba",BQ,BES,,
+Burkina Faso,BF,BFA,,
+Bangladesh,BD,BGD,Taka,BDT
+Bulgaria,BG,BGR,,
+Bahrain,BH,BHR,Bahraini Dinar,BHD
+Bahamas,BS,BHS,Bahamian Dollar,BSD
+Bosnia and Herzegovina,BA,BIH,,
+Saint Barthélemy,BL,BLM,,
+Belarus,BY,BLR,,
+Belize,BZ,BLZ,Belize Dollar,BZD
+Bermuda,BM,BMU,Bermudian Dollar,BMD
+"Bolivia, Plurinational State of",BO,BOL,Boliviano,BOB
+Brazil,BR,BRA,,
+Barbados,BB,BRB,Barbados Dollar,BBD
+Brunei Darussalam,BN,BRN,Brunei Dollar,BND
+Bhutan,BT,BTN,Ngultrum,BTN
+Bouvet Island,BV,BVT,,
+Botswana,BW,BWA,Pula,BWP
+Central African Republic,CF,CAF,,
+Canada,CA,CAN,Canadian Dollar,CAD
+Cocos (Keeling) Islands,CC,CCK,,
+Switzerland,CH,CHE,Swiss Franc,CHF
+Chile,CL,CHL,Chilean Peso,CLP
+China,CN,CHN,Yuan Renminbi,CNY
+Côte d'Ivoire,CI,CIV,,
+Cameroon,CM,CMR,,
+"Congo, The Democratic Republic of the",CD,COD,,
+Congo,CG,COG,,
+Cook Islands,CK,COK,,
+Colombia,CO,COL,Colombian Peso,COP
+Comoros,KM,COM,Comoro Franc,KMF
+Cabo Verde,CV,CPV,Cabo Verde Escudo,CVE
+Costa Rica,CR,CRI,Costa Rican Colon,CRC
+Cuba,CU,CUB,Cuban Peso,CUP
+Curaçao,CW,CUW,,
+Christmas Island,CX,CXR,,
+Cayman Islands,KY,CYM,Cayman Islands Dollar,KYD
+Cyprus,CY,CYP,,
+Czechia,CZ,CZE,Czech Koruna,CZK
+Germany,DE,DEU,,
+Djibouti,DJ,DJI,Djibouti Franc,DJF
+Dominica,DM,DMA,,
+Denmark,DK,DNK,Danish Krone,DKK
+Dominican Republic,DO,DOM,Dominican Peso,DOP
+Algeria,DZ,DZA,Algerian Dinar,DZD
+Ecuador,EC,ECU,,
+Egypt,EG,EGY,Egyptian Pound,EGP
+Eritrea,ER,ERI,Nakfa,ERN
+Western Sahara,EH,ESH,,
+Spain,ES,ESP,,
+Estonia,EE,EST,,
+Ethiopia,ET,ETH,,
+Finland,FI,FIN,,
+Fiji,FJ,FJI,Fiji Dollar,FJD
+Falkland Islands (Malvinas),FK,FLK,Falkland Islands Pound,FKP
+France,FR,FRA,,
+Faroe Islands,FO,FRO,,
+"Micronesia, Federated States of",FM,FSM,,
+Gabon,GA,GAB,,
+United Kingdom,GB,GBR,Pound Sterling,GBP
+Georgia,GE,GEO,,
+Guernsey,GG,GGY,,
+Ghana,GH,GHA,,
+Gibraltar,GI,GIB,Gibraltar Pound,GIP
+Guinea,GN,GIN,Guinea Franc,GNF
+Guadeloupe,GP,GLP,,
+Gambia,GM,GMB,Dalasi,GMD
+Guinea-Bissau,GW,GNB,,
+Equatorial Guinea,GQ,GNQ,,
+Greece,GR,GRC,,
+Grenada,GD,GRD,,
+Greenland,GL,GRL,,
+Guatemala,GT,GTM,Quetzal,GTQ
+French Guiana,GF,GUF,,
+Guam,GU,GUM,,
+Guyana,GY,GUY,Guyana Dollar,GYD
+Hong Kong,HK,HKG,Hong Kong Dollar,HKD
+Heard Island and McDonald Islands,HM,HMD,,
+Honduras,HN,HND,Lempira,HNL
+Croatia,HR,HRV,Kuna,HRK
+Haiti,HT,HTI,Gourde,HTG
+Hungary,HU,HUN,Forint,HUF
+Indonesia,ID,IDN,Rupiah,IDR
+Isle of Man,IM,IMN,,
+India,IN,IND,Indian Rupee,INR
+British Indian Ocean Territory,IO,IOT,,
+Ireland,IE,IRL,,
+"Iran, Islamic Republic of",IR,IRN,Iranian Rial,IRR
+Iraq,IQ,IRQ,Iraqi Dinar,IQD
+Iceland,IS,ISL,Iceland Krona,ISK
+Israel,IL,ISR,New Israeli Sheqel,ILS
+Italy,IT,ITA,,
+Jamaica,JM,JAM,Jamaican Dollar,JMD
+Jersey,JE,JEY,,
+Jordan,JO,JOR,Jordanian Dinar,JOD
+Japan,JP,JPN,Yen,JPY
+Kazakhstan,KZ,KAZ,Tenge,KZT
+Kenya,KE,KEN,Kenyan Shilling,KES
+Kyrgyzstan,KG,KGZ,Som,KGS
+Cambodia,KH,KHM,Riel,KHR
+Kiribati,KI,KIR,,
+Saint Kitts and Nevis,KN,KNA,,
+"Korea, Republic of",KR,KOR,Won,KRW
+Kuwait,KW,KWT,Kuwaiti Dinar,KWD
+Lao People's Democratic Republic,LA,LAO,Kip,LAK
+Lebanon,LB,LBN,Lebanese Pound,LBP
+Liberia,LR,LBR,Liberian Dollar,LRD
+Libya,LY,LBY,Libyan Dinar,LYD
+Saint Lucia,LC,LCA,,
+Liechtenstein,LI,LIE,,
+Sri Lanka,LK,LKA,Sri Lanka Rupee,LKR
+Lesotho,LS,LSO,Loti,LSL
+Lithuania,LT,LTU,,
+Luxembourg,LU,LUX,,
+Latvia,LV,LVA,,
+Macao,MO,MAC,Pataca,MOP
+Saint Martin (French part),MF,MAF,,
+Morocco,MA,MAR,Moroccan Dirham,MAD
+Monaco,MC,MCO,,
+"Moldova, Republic of",MD,MDA,Moldovan Leu,MDL
+Madagascar,MG,MDG,,
+Maldives,MV,MDV,Rufiyaa,MVR
+Mexico,MX,MEX,Mexican Peso,MXN
+Marshall Islands,MH,MHL,,
+North Macedonia,MK,MKD,Denar,MKD
+Mali,ML,MLI,,
+Malta,MT,MLT,,
+Myanmar,MM,MMR,Kyat,MMK
+Montenegro,ME,MNE,,
+Mongolia,MN,MNG,Tugrik,MNT
+Northern Mariana Islands,MP,MNP,,
+Mozambique,MZ,MOZ,,
+Mauritania,MR,MRT,Ouguiya,MRO
+Montserrat,MS,MSR,,
+Martinique,MQ,MTQ,,
+Mauritius,MU,MUS,Mauritius Rupee,MUR
+Malawi,MW,MWI,Malawi Kwacha,MWK
+Malaysia,MY,MYS,Malaysian Ringgit,MYR
+Mayotte,YT,MYT,,
+Namibia,NA,NAM,Namibia Dollar,NAD
+New Caledonia,NC,NCL,,
+Niger,NE,NER,,
+Norfolk Island,NF,NFK,,
+Nigeria,NG,NGA,Naira,NGN
+Nicaragua,NI,NIC,Cordoba Oro,NIO
+Niue,NU,NIU,,
+Netherlands,NL,NLD,,
+Norway,NO,NOR,Norwegian Krone,NOK
+Nepal,NP,NPL,Nepalese Rupee,NPR
+Nauru,NR,NRU,,
+New Zealand,NZ,NZL,New Zealand Dollar,NZD
+Oman,OM,OMN,Rial Omani,OMR
+Pakistan,PK,PAK,Pakistan Rupee,PKR
+Panama,PA,PAN,,
+Pitcairn,PN,PCN,,
+Peru,PE,PER,Sol,PEN
+Philippines,PH,PHL,Philippine Peso,PHP
+Palau,PW,PLW,,
+Papua New Guinea,PG,PNG,Kina,PGK
+Poland,PL,POL,,
+Puerto Rico,PR,PRI,,
+"Korea, Democratic People's Republic of",KP,PRK,North Korean Won,KPW
+Portugal,PT,PRT,,
+Paraguay,PY,PRY,Guarani,PYG
+"Palestine, State of",PS,PSE,,
+French Polynesia,PF,PYF,,
+Qatar,QA,QAT,Qatari Rial,QAR
+Réunion,RE,REU,,
+Romania,RO,ROU,,
+Russian Federation,RU,RUS,Russian Ruble,RUB
+Rwanda,RW,RWA,Rwanda Franc,RWF
+Saudi Arabia,SA,SAU,Saudi Riyal,SAR
+Sudan,SD,SDN,,
+Senegal,SN,SEN,,
+Singapore,SG,SGP,Singapore Dollar,SGD
+South Georgia and the South Sandwich Islands,GS,SGS,,
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Saint Helena Pound,SHP
+Svalbard and Jan Mayen,SJ,SJM,,
+Solomon Islands,SB,SLB,Solomon Islands Dollar,SBD
+Sierra Leone,SL,SLE,Leone,SLL
+El Salvador,SV,SLV,El Salvador Colon,SVC
+San Marino,SM,SMR,,
+Somalia,SO,SOM,Somali Shilling,SOS
+Saint Pierre and Miquelon,PM,SPM,,
+Serbia,RS,SRB,,
+South Sudan,SS,SSD,South Sudanese Pound,SSP
+Sao Tome and Principe,ST,STP,Dobra,STD
+Suriname,SR,SUR,,
+Slovakia,SK,SVK,,
+Slovenia,SI,SVN,,
+Sweden,SE,SWE,Swedish Krona,SEK
+Eswatini,SZ,SWZ,Lilangeni,SZL
+Sint Maarten (Dutch part),SX,SXM,,
+Seychelles,SC,SYC,Seychelles Rupee,SCR
+Syrian Arab Republic,SY,SYR,Syrian Pound,SYP
+Turks and Caicos Islands,TC,TCA,,
+Chad,TD,TCD,,
+Togo,TG,TGO,,
+Thailand,TH,THA,Baht,THB
+Tajikistan,TJ,TJK,,
+Tokelau,TK,TKL,,
+Turkmenistan,TM,TKM,,
+Timor-Leste,TL,TLS,,
+Tonga,TO,TON,Pa’anga,TOP
+Trinidad and Tobago,TT,TTO,Trinidad and Tobago Dollar,TTD
+Tunisia,TN,TUN,Tunisian Dinar,TND
+Turkey,TR,TUR,,
+Tuvalu,TV,TUV,,
+"Taiwan, Province of China",TW,TWN,,
+"Tanzania, United Republic of",TZ,TZA,Tanzanian Shilling,TZS
+Uganda,UG,UGA,Uganda Shilling,UGX
+Ukraine,UA,UKR,,
+United States Minor Outlying Islands,UM,UMI,,
+Uruguay,UY,URY,Peso Uruguayo,UYU
+United States,US,USA,US Dollar,USD
+Uzbekistan,UZ,UZB,Uzbekistan Sum,UZS
+Holy See (Vatican City State),VA,VAT,,
+Saint Vincent and the Grenadines,VC,VCT,,
+"Venezuela, Bolivarian Republic of",VE,VEN,,
+"Virgin Islands, British",VG,VGB,,
+"Virgin Islands, U.S.",VI,VIR,,
+Viet Nam,VN,VNM,Dong,VND
+Vanuatu,VU,VUT,Vatu,VUV
+Wallis and Futuna,WF,WLF,,
+Samoa,WS,WSM,Tala,WST
+Yemen,YE,YEM,,
+South Africa,ZA,ZAF,Rand,ZAR
+Zambia,ZM,ZMB,,
+Zimbabwe,ZW,ZWE,,
